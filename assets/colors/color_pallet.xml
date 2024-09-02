@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor" type="material">#262026</color>
+    <color name="foregroundColor" type="material">#342E36</color>
+    <color name="primaryColor" type="material">#884A89</color>
+    <color name="lightPink" type="material">#AD8CA1</color>
+    <color name="white" type="material">#FFFFFF</color>
+</resources>
